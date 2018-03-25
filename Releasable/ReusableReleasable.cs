@@ -23,6 +23,7 @@ namespace Dagaren.Releasable
         {
             this.reuseAction(this.Value);
             this.Value = default(T);
+            this.reuseAction = null;
         }
     }
 }
