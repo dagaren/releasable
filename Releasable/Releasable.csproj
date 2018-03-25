@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Dagaren.Releasable</AssemblyName>
+    <RootNamespace>Dagaren.Releasable</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
